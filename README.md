@@ -23,3 +23,5 @@ Marketing Optimization: Tailor marketing campaigns based on user behavior and tr
 Trend Analysis: Examine transaction trends over time to anticipate demand fluctuations.
 
 Competitive Benchmarking: Compare performance against competitors to identify areas for improvement.
+
+Dataset source: https://github.com/PhonePe/pulse
